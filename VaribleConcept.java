@@ -13,6 +13,7 @@ public class VaribleConcept{
 		System.out.println(collegeName);
 		VaribleConcept vc = new VaribleConcept();
 		System.out.println(vc.studentName);
+		System.out.println("hai");
 
 	}
 
